@@ -7,7 +7,7 @@ REPO_URL="https://github.com/nitheeshp-irl/packer_script.git"
 SCRIPT_PATH_IN_REPO="/"
 
 # Name of the script to download
-TARGET_NAME="download_git.sh"
+TARGET_NAME="user-data.sh"
 
 # Temporary directory to clone the repo
 TEMP_DIR=$(mktemp -d)
